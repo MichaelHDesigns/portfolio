@@ -400,7 +400,8 @@ a:hover
 #skills div
 {
   padding:.2rem;
-  transition:opacity .5s
+  transition:opacity .5s;
+  align-items:center;
 }
 
 #skills div[skill-type=language]
