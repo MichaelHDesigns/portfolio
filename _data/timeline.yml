@@ -22,7 +22,7 @@
   date: Sep 2018 - Present
   subtitle: Nonprofit Parent Company
   tags:
-    - tag: homelessness
+    - tag: nonprofit
     - tag: homeless
     - tag: homeless
     - tag: 501c3
@@ -42,10 +42,20 @@
   title-url: http://landforthehomeless.org/
   date: 2018 - Present
   subtitle: HTH Partner
+  tags:
+    - tag: nonprofit
+    - tag: homeless
+    - tag: land
+    - tag: 501c3
   timeline-side: left
 
 - title: Amazon Smile
   title-url: https://smile.amazon.com/ch/83-1698753
   date: 2018 - Present
   subtitle: HTH Partner
+  tags:
+    - tag: nonprofit
+    - tag: homeless
+    - tag: commerce
+    - tag: donations
   timeline-side: right
