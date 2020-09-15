@@ -25,7 +25,7 @@
 
   {% if site.youtube_username != null %}
   <a class="social-link black" aria-label="My Codepen" target="_blank" rel="noreferrer"
-    href="https://www.youtube.com/channel/UCsKeJJnVF1xCSZpLmExLCNw/{{site.codepen_username}}">
+    href="https://www.youtube.com/channel/UCsKeJJnVF1xCSZpLmExLCNw/{{site.youtube_username}}">
     <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
         <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#youtube" | prepend: site.baseurl }}"></use>
@@ -36,7 +36,7 @@
 
   {% if site.dev_username != null %}
   <a class="social-link black" aria-label="My DEV" target="_blank" rel="noreferrer"
-    href="https://discord.gg/r7zKfy5{{site.dev_username}}">
+    href="https://discord.gg/r7zKfy5{{site.discord_username}}">
     <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
         <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#discord" | prepend: site.baseurl }}"></use>
@@ -47,7 +47,7 @@
 
   {% if site.linkedin_username != null %}
   <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
-    href="https://www.facebook.com/{{site.linkedin_username}}">
+    href="https://www.facebook.com/{{site.facebook_username}}">
     <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
         <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#facebook" | prepend: site.baseurl }}"></use>
