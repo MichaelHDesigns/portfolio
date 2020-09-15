@@ -12,6 +12,11 @@
             HTH Worldwide
           </a>
         {% endif %}
+        {% if project.live %}
+          <a class="highlight-link" href="{{project.live}}" target="_blank" rel="noreferrer">
+            HTH Coin
+          </a>
+        {% endif %}
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}
@@ -71,7 +76,7 @@
           <p class="project-desc">{{repository.description}}</p>
           {% if repository.homepage != "" and repository.homepage != nil %}
             <a class="highlight-link" href="{{repository.homepage}}" target="_blank" rel="noreferrer">
-              HTH Coin
+              HTH
             </a>
           {% endif %}
           <a class="highlight-link" href="{{repository.html_url}}" target="_blank" rel="noreferrer">
