@@ -26,7 +26,7 @@
     - tag: homeless
     - tag: homeless
     - tag: 501c3
-  timeline-side: right
+  timeline-side: left
 
 - title: The Salvation Army of Athens, Greece
   title-url: https://www.salvationarmy.gr/
@@ -48,4 +48,4 @@
   title-url: https://smile.amazon.com/ch/83-1698753
   date: 2018 - Present
   subtitle: HTH Partner
-  timeline-side: left
+  timeline-side: right
