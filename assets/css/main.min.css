@@ -239,12 +239,12 @@ a:hover
 
 .landing-icons .social-link
 {
-  color:#fff;
+  color: #debf12;
   position:relative;
   height:3rem;
   line-height:3rem;
   margin:.25rem;
-  width:3rem
+  width:3rem;
 }
 
 .landing-icons .social-link .circle
@@ -266,7 +266,7 @@ a:hover
 
 .landing-icons .social-link .social-svg
 {
-  fill:#fff
+  fill: #34bcaa;
 }
 
 .landing-icons .social-link .label
@@ -288,7 +288,7 @@ a:hover
 
 .landing-icons .social-link:hover .social-svg
 {
-  fill:#000
+  fill:#34bcaa;
 }
 
 .landing-icons .social-link:hover .label
@@ -300,32 +300,32 @@ a:hover
 
 .landing-icons .email:hover .circle
 {
-  animation:b 1s ease-in-out forwards,e 1s linear forwards
+  animation:b 1s ease-in-out forwards,e 1s linear forwards;
 }
 
 .landing-icons .email:hover .social-svg
 {
-  fill:#d44638
+  fill:#34bcaa;
 }
 
 .landing-icons .linkedin:hover .circle
 {
-  animation:b 1s ease-in-out forwards,f 1s linear forwards
+  animation:b 1s ease-in-out forwards,f 1s linear forwards;
 }
 
 .landing-icons .linkedin:hover .social-svg
 {
-  fill:#007bb6
+  fill:#34bcaa;
 }
 
 .landing-icons .twitter:hover .circle
 {
-  animation:b 1s ease-in-out forwards,g 1s linear forwards
+  animation:b 1s ease-in-out forwards,g 1s linear forwards;
 }
 
 .landing-icons .twitter:hover .social-svg
 {
-  fill:#1da1f2
+  fill:#34bcaa;
 }
 
 @keyframes b
@@ -357,7 +357,7 @@ a:hover
 {
   to
   {
-    stroke:#000
+    stroke:#debf12;
   }
 }
 
@@ -365,7 +365,7 @@ a:hover
 {
   to
   {
-    stroke:#b23121
+    stroke:#debf12;
   }
 }
 
@@ -373,7 +373,7 @@ a:hover
 {
   to
   {
-    stroke:#007bb6
+    stroke:#debf12;
   }
 }
 
@@ -381,7 +381,7 @@ a:hover
 {
   to
   {
-    stroke:#1da1f2
+    stroke:#debf12;
   }
 }
 
@@ -405,17 +405,17 @@ a:hover
 
 #skills div[skill-type=language]
 {
-  color:#e84a5f
+  color:#34bcaa;
 }
 
 #skills div[skill-type=framework]
 {
-  color:#ff847c
+  color:#34bcaa;
 }
 
 #skills div[skill-type=tool]
 {
-  color:#fecea8
+  color:#34bcaa;
 }
 
 #skills div[skill-weight="1"]
@@ -479,7 +479,7 @@ a:hover
 
 .timeline-wrapper .hexagon
 {
-  background:#ff073a;
+  background:#debf12;
   height:.5rem;
   left:0;
   margin-left:auto;
@@ -503,13 +503,13 @@ a:hover
 
 .timeline-wrapper .hexagon:before
 {
-  border-bottom:.25rem solid #ff073a;
+  border-bottom:.25rem solid #debf12;
   top:-.25rem
 }
 
 .timeline-wrapper .hexagon:after
 {
-  border-top:.25rem solid #ff073a;
+  border-top:.25rem solid #debf12;
   bottom:-.25rem
 }
 
@@ -536,7 +536,7 @@ a:hover
 .timeline-wrapper .flag span:after
 {
   content:"\226B";
-  color:#ff073a;
+  color:#debf12;
   position:absolute;
   opacity:0;
   right:-1rem;
@@ -557,7 +557,7 @@ a:hover
 
 .timeline-wrapper .time-wrapper
 {
-  color:#fff;
+  color:#debf12;
   display:block;
   line-height:.5rem;
   margin-top:.3rem
@@ -650,7 +650,7 @@ a:hover
 
 .contact-icons .social-link .social-svg
 {
-  fill:#ff073a
+  fill:#34bcaa;
 }
 
 .contact-icons .social-link:hover
@@ -754,7 +754,7 @@ a:hover
   
   #skills input[type=radio]:checked+.filter-button
   {
-    color:#ff073a;
+    color:#debf12;
     font-weight:600;
     background:linear-gradient(150deg,hsla(0,0%,8%,.4) 10%,hsla(0,0%,45%,.15) 80%);
     box-shadow:1px 1px 2px 0 hsla(0,0%,82%,.4),-1px -1px 2px rgba(0,0,0,.4),inset 3px 3px 2px 0 rgba(0,0,0,.4),inset -1px -2px 2px hsla(0,0%,82%,.4)
