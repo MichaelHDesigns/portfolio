@@ -1,32 +1,32 @@
+#descr: "Help The Homeless Coin is a cryptocurrency which aims to be a source of funding for the homeless as well as organizations. Please visit the HTH Coin website to learn how you can get involved!"
+
 # > name: Name of your project
 # > descr: Description of your project
 # > demo: Link to your project
 # > tags: List of technologies you used in your projects
 #
 # Example of a project
-# - name: Help The Homeless Worldwide
-#   descr: "Help The Homeless Worldwide is a nonprofit corporation based in Barnegat, New Jersey. Help The Homeless Worldwide incorporates blockchain technology in the aid to help the homeless population around the globe. Help The Homeless Worldwide wants to give back to our community, and help those in need to thrive in life regardless of their story, and give everyone a fair chance in life. With this core belief, Help The Homeless Worldwide will free more resources to make a larger impact on solving the homeless problem. We fully believe that we can change the world. Please join us on our journey!"
-#   demo: https://devilking.github.io/playtime/
-#   tags:
-#     - tag: homeless
-#     - tag: help the homeless
-#     - tag: nonprofit
-#     - tag: 501c3
-
-- name: Help The Homeless Worldwide
-   descr: "Help The Homeless Worldwide is a nonprofit corporation based in Barnegat, New Jersey. Help The Homeless Worldwide incorporates blockchain technology in the aid to help the homeless population around the globe. Help The Homeless Worldwide wants to give back to our community, and help those in need to thrive in life regardless of their story, and give everyone a fair chance in life. With this core belief, Help The Homeless Worldwide will free more resources to make a larger impact on solving the homeless problem. We fully believe that we can change the world. Please join us on our journey!"
-   demo: https://devilking.github.io/playtime/
-   tags:
-     - tag: homeless
-     - tag: help the homeless
-     - tag: nonprofit
-     - tag: 501c3
-
-- name: Help The Homeless Coin
+# - name: project X
+# descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+# demo: https://example.com/
+# tags:
+# - tag: MongoDB
+# - tag: Express
+# - tag: AngularJS
+# - tag: Node
+ - name: Help The Homeless Worldwide
+ descr: "Help The Homeless Worldwide is a nonprofit corporation based in Barnegat, New Jersey. Help The Homeless Worldwide incorporates blockchain technology in the aid to help the homeless population around the globe. Help The Homeless Worldwide wants to give back to our community, and help those in need to thrive in life regardless of their story, and give everyone a fair chance in life. With this core belief, Help The Homeless Worldwide will free more resources to make a larger impact on solving the homeless problem. We fully believe that we can change the world. Please join us on our journey!"
+ demo: https://devilking6105.github.io/playtime/
+ tags:
+ - tag: homelessness
+ - tag: homeless
+ - tag: nonprofit
+ - tag: 501c3
+ - name: Help The Homeless Coin
  descr: "Help The Homeless Coin is a cryptocurrency which aims to be a source of funding for the homeless as well as organizations. Please visit the HTH Coin website to learn how you can get involved!"
  demo: https://hth.world/
-  tags:
-  - tag: homeless
-  - tag: cryptocurrency
-  - tag: blockchain
-  - tag: masternode
+ tags:
+ - tag: homeless
+ - tag: cryptocurrency
+ #- name: project Z
+ #descr: "You can also set a project without demo link and no tags"
