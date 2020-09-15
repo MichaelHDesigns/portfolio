@@ -25,7 +25,7 @@
 {% endif %}
 
 {% if site.show_os_projects %}
-  <h1 class="title">{{site.os_projects_title}}</h1>
+  <h1 class="title" style="color: #debf12">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
   {% else %}
@@ -89,5 +89,3 @@
     {% endfor %}
   </div>
 {% endif %}
-
-
