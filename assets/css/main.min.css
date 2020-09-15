@@ -407,6 +407,7 @@ a:hover
 #skills div[skill-type=language]
 {
   color:#34bcaa;
+  align-items:center;
 }
 
 #skills div[skill-type=framework]
