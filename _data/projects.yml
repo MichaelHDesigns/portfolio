@@ -14,7 +14,7 @@
 # - tag: Express
 # - tag: AngularJS
 # - tag: Node
- - name: Help The Homeless Worldwide
+- name: Help The Homeless Worldwide
  descr: "Help The Homeless Worldwide is a nonprofit corporation based in Barnegat, New Jersey. Help The Homeless Worldwide incorporates blockchain technology in the aid to help the homeless population around the globe. Help The Homeless Worldwide wants to give back to our community, and help those in need to thrive in life regardless of their story, and give everyone a fair chance in life. With this core belief, Help The Homeless Worldwide will free more resources to make a larger impact on solving the homeless problem. We fully believe that we can change the world. Please join us on our journey!"
  demo: https://devilking6105.github.io/playtime/
  tags:
@@ -22,7 +22,7 @@
  - tag: homeless
  - tag: nonprofit
  - tag: 501c3
- - name: Help The Homeless Coin
+- name: Help The Homeless Coin
  descr: "Help The Homeless Coin is a cryptocurrency which aims to be a source of funding for the homeless as well as organizations. Please visit the HTH Coin website to learn how you can get involved!"
  demo: https://hth.world/
  tags:
