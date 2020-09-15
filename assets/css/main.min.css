@@ -661,22 +661,22 @@ a:hover
 
 .contact-icons .social-link:hover .social-svg
 {
-  fill:#fff
+  fill:#debf12;
 }
 
 .contact-icons .black:hover .social-svg
 {
-  fill:#000
+  fill:#debf12;
 }
 
 .contact-icons .linkedin:hover .social-svg
 {
-  fill:#007bb6
+  fill:#debf12;
 }
 
 .contact-icons .twitter:hover .social-svg
 {
-  fill:#1da1f2
+  fill:#debf12;
 }
 
 @media only screen and (min-width:48em)
