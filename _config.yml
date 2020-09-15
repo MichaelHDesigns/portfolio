@@ -49,7 +49,7 @@ skills_title: Donate to HTH Today
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: How HTH can help others achieve a way of life
+timeline_title: HTH Partners
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://github.com/HTHcoin/HTH-Legacy/blob/master/Light_Paper.pdf
@@ -70,7 +70,7 @@ projects_title: About HTH
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: HTH Partners
+os_projects_title: Follow HTH Development
 
 # CONTACT SECTION
 # show_contact_card:
