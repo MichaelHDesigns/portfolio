@@ -24,7 +24,7 @@
 
 - name: Help The Homeless Coin
   descr: "Help The Homeless Coin is a cryptocurrency which aims to be a source of funding for the homeless as well as organizations. Please visit the HTH Coin website to learn how you can get involved!"
-  demo: https://hth.world/
+  live: https://hth.world/
   tags:
     - tag: homeless
     - tag: cryptocurrency
