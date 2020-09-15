@@ -81,10 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: HTH Worldwide A NJ Nonprofit Corporation
-EIN 83-1698753
-A Registered 501(c)(3) Nonprofit & Cryptocurrency
-Designed with <i class="fa fa-heart" aria-hidden="true"></i> by HTH Worldwide
+contact_description: HTH Worldwide A NJ Nonprofit Corporation EIN 83-1698753 A Registered 501(c)(3) Nonprofit & Cryptocurrency Designed with <i class="fa fa-heart" aria-hidden="true"></i> by HTH Worldwide
 
 # GITHUB-METADATA
 # Set this to your forked repository
