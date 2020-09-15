@@ -11,10 +11,10 @@ baseurl: "/playtime"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: HTHCoin
+username: HTH Worldwide
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: A NJ Nonprofit Corporation & Cryptocurrency
 # email: Your E-Mail address for the email button.
 email: hthcoin@gmail.com
 # For every social button you want to display, set your username or userid
