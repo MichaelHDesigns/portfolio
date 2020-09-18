@@ -49,7 +49,7 @@ skills_title: Donate to Michael H
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Michael H Designs Github Repositories
+timeline_title: Michael H Designs 
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://github.com/HTHcoin/HTH-Legacy/blob/master/Light_Paper.pdf
@@ -64,13 +64,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: About Michael H Designs
+projects_title: About Me
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Michael H Designs Development
+os_projects_title: Projects
 
 # CONTACT SECTION
 # show_contact_card:
