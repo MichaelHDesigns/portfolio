@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: HTH Worldwide
+title: Michael H Designs
 # description: This will be meta HTML tag content. This can be ignored.
-description: A NJ Nonprofit Corporation
+description: Wensite Designs by Michael H
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/playtime"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: HTH Worldwide
+username: Michael H Designs
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: A NJ Nonprofit Corporation
+typing_text: Get Your Website Made Today!
 # email: Your E-Mail address for the email button.
-email: hthcoin@gmail.com
+email: devilking6105@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
-# > twitter_username:
-github_username: HTHcoin
-youtube_username: Help The Homeless Worldwide
+# > twitter_username: Devilking6105
+github_username: MichaelHDesigns
+youtube_username: Devilking6105
 dev_username: https://discord.gg/r7zKfy5
-facebook_username: HelptheHomelessCoinOfficial
-twitter_username: HTHCoin
+facebook_username: Devilking6105
+twitter_username: Devilking6105
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -41,7 +41,7 @@ about_me_description: It is a part of human nature to look out for one another, 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Donate to HTH Today
+skills_title: Donate to Michael H
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -49,7 +49,7 @@ skills_title: Donate to HTH Today
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: HTH Partners
+timeline_title: Michael H Designs Github Repositories
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://github.com/HTHcoin/HTH-Legacy/blob/master/Light_Paper.pdf
@@ -64,13 +64,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: About HTH
+projects_title: About Michael H Designs
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Follow HTH Development
+os_projects_title: Michael H Designs Development
 
 # CONTACT SECTION
 # show_contact_card:
@@ -80,12 +80,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: HTH Worldwide A NJ Nonprofit Corporation <br> 900 Barnegate Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
+contact_description: Michael H Designs <br> 900 Barnegate Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: devilking6105/playtime
+repository: MichaelHDesigns/playtime
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
