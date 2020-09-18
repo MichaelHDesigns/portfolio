@@ -41,7 +41,7 @@ about_me_description: It is a part of human nature to look out for one another, 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Donate to Michael H
+skills_title: Donate to Michael H Designs
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -80,7 +80,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Michael H Designs <br> 900 Barnegate Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
+contact_description: Michael H Designs <br> 900 Barnegat Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
 
 # GITHUB-METADATA
 # Set this to your forked repository
