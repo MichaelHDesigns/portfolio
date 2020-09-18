@@ -43,7 +43,7 @@ show_aboutme1_card: true
 # about_me1_title: The will be displayed as the title in the About Me section
 about_me1_title: A Message from Michael H
 # about_me1_description: This will be displayed under the title.
-about_me1_description: I am Michael H. Co-Founder of the cryptocurrency Help The Homeless Coin, I am Dorector of the parent company Help The Homeless Worldwide A NJ Nonprofit Corporation. Through my journey with some amazing human beings I have fallen for coding in general, but I like web design the most & I decided to dive into the web designing community! 
+about_me1_description: I am Michael H, Co-Founder of the cryptocurrency Help The Homeless Coin, I am Dorector of the parent company Help The Homeless Worldwide A NJ Nonprofit Corporation. Through my journey with some amazing human beings I have fallen for coding in general, but I like web design the most & I decided to dive into the web designing community! 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
