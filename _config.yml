@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Designing Websites
 # about_me_description: This will be displayed under the title.
-about_me_description: Isn't it crazy seeing all these website design companies advertising their services & products? Well, I am doing the same, except I dont cost a whole lot! Over the course of 2 years, I have learned that help is needed & money isn't always available, but ideas are everywhere so I decided to lend a helping hand. As Co-Founder of Help The Homeless Worldwide, I would also like to extend my services to the public with Michael H Designs. My goal is to be inexpensive, but deliver a working, reliable web design for those who need help.
+about_me_description: Isn't it crazy seeing all these website design companies advertising their services & products? Well, I am doing the same, except I dont cost a whole lot! Over the course of 2 years, I have learned that help is needed & money isn't always available, but ideas are everywhere so I decided to lend a helping hand. As Co-Founder of Help The Homeless Worldwide, I would also like to extend my services to the public with Michael H Designs. My goal is to be inexpensive and deliver a working, reliable web design for those who need help.
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
