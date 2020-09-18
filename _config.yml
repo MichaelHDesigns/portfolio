@@ -14,14 +14,14 @@ baseurl: "/playtime"
 username: Michael H Designs
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Co-Founder and Director of
+typing_text: Co-Founder & Director of
 # email: Your E-Mail address for the email button.
 email: devilking6105@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username: Devilking61051
 github_username: MichaelHDesigns
-youtube_username: Devilking6105
+youtube_username: Help The Homeless Worldwide
 dev_username: https://discord.gg/r7zKfy5
 facebook_username: Devilking6105
 twitter_username: Devilking61051
