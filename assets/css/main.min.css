@@ -100,7 +100,7 @@ a:hover
 
 .neumorphism-card
 {
-  box-shadow:inset 2px 2px 4px #34bcaa,inset -2px -2px 4px #fff;
+  box-shadow:inset 2px 2px 4px #2b2d2f,inset -2px -2px 4px #2b2d2f;
 }
 
 .neumorphism-card-big
