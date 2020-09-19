@@ -26,7 +26,9 @@
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {{event.subtitle}}
+                {% if event.title-url %}
                 <div class="tag-wrapper">
+                {% for tag in event.title-url %}
                   <a href="{{event.title-url}}" target="_blank" rel="noreferrer"> 
                  <span>{{event.title}}</span>
                   </a>
