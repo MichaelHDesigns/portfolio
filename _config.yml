@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Michael H Designs
+title: Michael H
 # description: This will be meta HTML tag content. This can be ignored.
 description: Website Designs by Michael H
 # baseurl: The subpath of your site
@@ -11,7 +11,7 @@ baseurl: "/playtime"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Michael H Designs
+username: Michael H
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Co-Founder & Director of
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: What I Do
 # about_me_description: This will be displayed under the title.
-about_me_description: Isn't it crazy seeing all these website design companies advertising their services & products? Well, I am doing the same, except I dont cost a whole lot! Over the course of 2 years, I have learned that help is needed & money isn't always available, but ideas are everywhere so I decided to lend a helping hand. As Co-Founder of Help The Homeless Worldwide, I would also like to extend my services to the public with Michael H Designs. My goal is to be inexpensive and deliver a working, reliable web design for those who need help.
+about_me_description: I am Co-Founder of HTH Coin & Director of our fully registered 501(c)(3), Help The Homeless Worldwide A NJ Nonprofit Corporation. As Co-Founder of HTH Coin, I handle the development & public relations of HTH Coin. As Director of HTH Worldwide, I oversee operations of HTH Worldwide A NJNonprofit Corporation.
 # ABOUT ME1 SECTION
 # show_aboutme1_card:
 # > setting this to true, will display the About Me section
@@ -73,13 +73,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: My Companies
+projects_title: HTH World
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Projects
+os_projects_title: Github Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -89,7 +89,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Michael H Designs <br> 900 Barnegat Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
+contact_description: Michael H <br> 900 Barnegat Blvd N <br> Unit 2406 <br> Barnegat, New Jersey 08005 <br> 1-848-221-6383
 
 # GITHUB-METADATA
 # Set this to your forked repository
