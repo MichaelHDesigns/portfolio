@@ -7,7 +7,7 @@
 
 # Example of a timeline entry
 # - title: Help The Homeless Worldwide
-#   title-url: https://helpthehomelessworldwide.org/partners
+#   title-url: https://charity.hth.world
 #   date: Sep 2018 - Present
 #   subtitle: Parent Company
 #   tags:
@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: Help The Homeless Worldwide
-  title-url: https://helpthehomelessworldwide.org/
+  title-url: https://charity.hth.world
   date: Sep 2018 - Present
   subtitle: Nonprofit Parent Company
   tags:
