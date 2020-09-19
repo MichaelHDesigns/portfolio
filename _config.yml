@@ -7,7 +7,7 @@ title: Michael H
 description: Website for Michael H
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/playtime"
+baseurl: "/portfolio"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -94,7 +94,7 @@ contact_description: Help The Homeless Worldwide<br> 900 Barnegat Blvd N <br> Un
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: MichaelHDesigns/playtime
+repository: MichaelHDesigns/portfolio
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
