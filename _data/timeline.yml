@@ -39,24 +39,24 @@
     - tag: company
   timeline-side: right
 
-#- title: Land For The Homeless
-#  title-url: http://landforthehomeless.org/
+#- title: Help The Homeless Worldwide
+#  title-url: https://github.com/HTHcoin
 #  date: 2018 - Present
-#  subtitle: HTH Partner
+#  subtitle: HTH Worldwide Github
 #  tags:
 #    - tag: nonprofit
 #    - tag: homeless
-#    - tag: land
-#    - tag: 501c3
+#    - tag: cryptocurrency
+#    - tag: masternode
 #  timeline-side: left
 
-#- title: Amazon Smile
-#  title-url: https://smile.amazon.com/ch/83-1698753
-#  date: 2018 - Present
-#  subtitle: HTH Partner
-#  tags:
-#    - tag: nonprofit
-#    - tag: homeless
-#    - tag: commerce
-#    - tag: donations
-#  timeline-side: right
+ - title: Amazon Smile
+   title-url: https://smile.amazon.com/ch/83-1698753
+   date: 2018 - Present
+  subtitle: HTH Partner
+  tags:
+    - tag: nonprofit
+    - tag: homeless
+    - tag: commerce
+    - tag: donations
+  timeline-side: right
