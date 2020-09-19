@@ -22,10 +22,10 @@
   date: My Personal Website
   subtitle:
   tags:
-    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
-    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">About</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile1/" rel="tag">Education</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile2/" rel="tag">Projects</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile2/" rel="tag">Contact</a> </p>
   timeline-side: left
 
 - title: My Github
