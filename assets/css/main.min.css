@@ -42,12 +42,12 @@ a:hover
 .highlight-title
 {
   color:#fff;
-  text-shadow:.25rem .25rem .25rem #000;
+  text-shadow:.25rem .25rem .25rem #34bcaa;
 }
 
 .highlight-link
 {
-  box-shadow:inset 0 -.125rem 0 #34bcaa;
+  box-shadow:inset 0 -.125rem 0 #debf12;
   box-sizing:border-box;
   color:#fff;
   display:inline-block;
@@ -57,7 +57,7 @@ a:hover
 
 .highlight-link:hover
 {
-  box-shadow:inset 0 -2rem 0 0 #000;
+  box-shadow:inset 0 -2rem 0 0 #34bcaa;
   color:#fff
 }
 
@@ -100,12 +100,12 @@ a:hover
 
 .neumorphism-card
 {
-  box-shadow:inset 2px 2px 4px #34bcaa,inset -2px -2px 4px #34bcaa;
+  box-shadow:inset 2px 2px 4px #34bcaa,inset -2px -2px 4px #fff;
 }
 
 .neumorphism-card-big
 {
-  box-shadow: 10px 15px 14px #34bcaa, -15px -15px 14px #34bcaa;
+  box-shadow: 10px 15px 14px #34bcaa, -15px -15px 14px #fff;
 }
 
 #preloader
