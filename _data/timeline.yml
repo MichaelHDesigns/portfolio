@@ -39,16 +39,16 @@
     - tag: company
   timeline-side: right
 
-#- title: Help The Homeless Worldwide
-#  title-url: https://github.com/HTHcoin
-#  date: 2018 - Present
-#  subtitle: HTH Worldwide Github
-#  tags:
-#    - tag: nonprofit
-#    - tag: homeless
-#    - tag: cryptocurrency
-#    - tag: masternode
-#  timeline-side: left
+- title: Help The Homeless Worldwide
+  title-url: https://github.com/HTHcoin
+  date: 2018 - Present
+  subtitle: HTH Worldwide Github
+  tags:
+    - tag: nonprofit
+    - tag: homeless
+    - tag: cryptocurrency
+    - tag: masternode
+  timeline-side: left
 
 - title: Amazon Smile
   title-url: https://smile.amazon.com/ch/83-1698753
