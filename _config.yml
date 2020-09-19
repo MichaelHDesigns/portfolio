@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: What I Do
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Co-Founder of HTH Coin & Director of our fully registered 501(c)(3), Help The Homeless Worldwide A NJ Nonprofit Corporation. As Co-Founder of HTH Coin, I handle the development & public relations of HTH Coin. As Director of HTH Worldwide, I oversee operations of HTH Worldwide A NJ Nonprofit Corporation.
+about_me_description: I am Co-Founder of HTH Coin and Director of our fully registered 501(c)(3), Help The Homeless Worldwide A NJ Nonprofit Corporation. As Co-Founder of HTH Coin, I oversee the development and public relations of HTH Coin. As Director of HTH Worldwide, I oversee operations of HTH Worldwide A NJ Nonprofit Corporation.
 # ABOUT ME1 SECTION
 # show_aboutme1_card:
 # > setting this to true, will display the About Me section
