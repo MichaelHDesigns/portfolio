@@ -28,9 +28,6 @@
               {{event.subtitle}}
               {% if event.tags %}
                 <div class="tag-wrapper">
-                   <a href="{{event.title-url}}" target="_blank" rel="noreferrer">
-                  <span>{{event.title}}</span>
-                </a>
                   {% for tag in event.tags %}
                     <span class="tag neumorphism-card">{{tag.tag}}</span>
                   {% endfor %}
