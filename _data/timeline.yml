@@ -22,10 +22,10 @@
   date: Sep 2020 - Present
   subtitle: My Personal Website
   tags:
-    - tag: website
-    - tag: portfolio
-    - tag: github
-    - tag: company
+    - tag: web design
+    - tag: neumorphism
+    - tag: html
+    - tag: css
   timeline-side: left
 
 - title: My Github
@@ -33,10 +33,10 @@
   date: 2018 - Present
   subtitle: HTH Partner
   tags:
-    - tag: web design
-    - tag: neumorphism
-    - tag: html
-    - tag: css
+    - tag: website
+    - tag: portfolio
+    - tag: github
+    - tag: company
   timeline-side: right
 
 #- title: Land For The Homeless
