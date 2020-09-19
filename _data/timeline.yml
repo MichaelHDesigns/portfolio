@@ -28,34 +28,35 @@
     - tag: 501c3
   timeline-side: left
 
-- title: The Salvation Army of Athens, Greece
-  title-url: https://www.salvationarmy.gr/
+- title: Michael H Designs
+  title-url: https://www.github.com/MichaelHDesigns
   date: 2018 - Present
   subtitle: HTH Partner
   tags:
-    - tag: homelessness
-    - tag: 501c3
-    - tag: The Salvation Army
+    - tag: web design
+    - tag: github
+    - tag: html
+    - tag: css
   timeline-side: right
 
-- title: Land For The Homeless
-  title-url: http://landforthehomeless.org/
-  date: 2018 - Present
-  subtitle: HTH Partner
-  tags:
-    - tag: nonprofit
-    - tag: homeless
-    - tag: land
-    - tag: 501c3
-  timeline-side: left
+#- title: Land For The Homeless
+#  title-url: http://landforthehomeless.org/
+#  date: 2018 - Present
+#  subtitle: HTH Partner
+#  tags:
+#    - tag: nonprofit
+#    - tag: homeless
+#    - tag: land
+#    - tag: 501c3
+#  timeline-side: left
 
-- title: Amazon Smile
-  title-url: https://smile.amazon.com/ch/83-1698753
-  date: 2018 - Present
-  subtitle: HTH Partner
-  tags:
-    - tag: nonprofit
-    - tag: homeless
-    - tag: commerce
-    - tag: donations
-  timeline-side: right
+#- title: Amazon Smile
+#  title-url: https://smile.amazon.com/ch/83-1698753
+#  date: 2018 - Present
+#  subtitle: HTH Partner
+#  tags:
+#    - tag: nonprofit
+#    - tag: homeless
+#    - tag: commerce
+#    - tag: donations
+#  timeline-side: right
