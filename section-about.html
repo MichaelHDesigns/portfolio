@@ -1,4 +1,224 @@
-<!DOCTYPE html><html lang="en"> <head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1"> <title>{{ site.title }}</title> <meta name="description" content="{{ site.description }}"> <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/favicon/apple-touch-icon.png" | prepend: site.baseurl }}"> <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/favicon/favicon-32x32.png" | prepend: site.baseurl }}"> <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/favicon/favicon-16x16.png" | prepend: site.baseurl }}"> <link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | prepend: site.baseurl }}"> <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}"> <link rel="stylesheet" href="{{ "/assets/css/vendors.min.css" | prepend: site.baseurl }}"> <script src="{{ "/assets/js/vendors.min.js" | prepend: site.baseurl }}"></script> <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script></head> <body> <div id="preloader"> <div class="load"> <hr /> <hr /> <hr /> <hr /> </div> </div>
+<style>
+
+//$bg: #E9EDF0;
+$bg: #E9EDF0;
+$profile-width: 200px;
+
+html, body {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  color: #555;
+  color: darken(desaturate($bg, 10%), 40%);
+  font: 16px/22px "Proxima Nova", sans-serif;
+  background: desaturate($bg, 10%);
+  padding: 50px;
+  overflow: hidden;
+
+  @media (max-width: 768px) {
+    padding: 30px;
+  }
+  @media (max-width: 420px) {
+    padding: 10px;
+  }
+}
+
+h1,h2 {
+  margin-top: 10px;
+}
+h1 {
+  line-height: 30px;
+  color: darken(desaturate($bg, 5%), 50%);
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  @media (min-width: 768px) {
+    height: 100%;
+  }
+}
+
+.container {
+  opacity: 0;
+  transition: transform 1s ease, opacity 1s ease;
+  transform: translateY(-40px);
+  position: relative;
+  box-sizing: border-box;
+  width: 80%;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  max-width: 700px;
+  box-shadow: 0 2px 10px rgba(0,0,0,.03);
+
+  &.fadeIn {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  @media (max-width: 768px) {
+    width: 100%;
+    min-width: 350px;
+  }
+
+  & > div {
+    box-sizing: border-box;
+    padding: 50px 30px;
+    @media (max-width: 420px) {
+      padding: 40px 30px !important;
+    }
+  }
+}
+
+.profile {
+  position: absolute;
+  text-align: center;
+  width: $profile-width;
+  color: #fff;
+  //background: rgba(0,0,0,.5) url(https://s-media-cache-ak0.pinimg.com/736x/f6/35/20/f63520cc780b82c25fd91559b12f3cf6.jpg) no-repeat top;
+  background: rgba(0,0,0,.5) url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/85280/hi_tech_texture-wallpaper-1024x768.jpg) no-repeat top;
+  background-position: 40% 20%; 
+  height: 100%;
+  text-shadow: 0 1px 1px rgba(0,0,0,.3);
+
+  .meta 
+  {
+    position: relative;
+    z-index: 1;
+  }
+  .overlay 
+  {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,.3), transparent);
+  }
+  .avatar 
+  {
+    width: 50%;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 5px rgba(0,0,0,.4);
+  }
+  h2 {
+    font-size: 22px;
+    margin-bottom: 2px;
+  }
+  .position {
+    font-size: 13px;
+  }
+  .social {
+    padding-top: 15px;
+    i {
+      margin: 0 5px;
+    }
+  }
+  a {
+    color: #fff;
+  }
+}
+
+.portfolio {
+  margin-left: $profile-width;
+  padding: 50px !important;
+}
+
+@media (max-width: 670px) {
+  .profile {
+    position: relative;
+    width: 100%;
+    background-size: cover;
+
+    h2 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+  }
+  .avatar {
+    width: 80px !important;
+  }
+  .portfolio {
+    margin: 0;
+  }
+}
+
+.footer {
+  color: darken(desaturate($bg, 10%), 10%);
+  padding: 20px 0;
+  .fa {
+    font-size: 12px;
+    padding: 0 5px;
+  }
+}
+.text-center {
+  text-align:center;
+}
+.label 
+{
+  display: normal;
+  color: lighten(desaturate($bg, 10%), 5%);
+  font-size: 11px;
+  padding: 4px 8px;
+  border-radius: 3px;
+  background: darken(desaturate($bg, 20%), 40%);
+  
+}
+
+a
+{
+  text-decoration:none;
+}
 
 
-<h1 class="title" style="color: #34bcaa; text-align: center">{{site.timeline_title}}</h1> <!-- <p class="subtitle" style="text-align: center"> For more information, please download <a class="highlight-link" href="{{site.cv_download_link}}" target="_blank" rel="noreferrer"> <span style="weight: bold"> the HTH Light Paper </span> </a>.</p> --> <div class="timeline-wrapper"> <ul class="timeline"> {% for event in site.data.timeline %} {% if event.timeline-side == 'left' %} <li> <div class="direction-l"> <div class="flag-wrapper"> <span class="hexagon"></span> <span class="flag neumorphism-button" data-aos="zoom-in-right"> <a href="{{event.title-url}}" target="_blank" rel="noreferrer"> <span>{{event.title}}</span> </a> </span> <span class="time-wrapper" data-aos="zoom-in-right"> <span class="time neumorphism-card">{{event.date}}</span> </span> </div> <div class="desc neumorphism-card" data-aos="zoom-in-right"> {{event.subtitle}} {% if event.tags %} <div class="tag-wrapper"> {% for tag in event.tags %} <span class="tag neumorphism-card">{{tag.tag}}</span> {% endfor %} </div> {% endif %} </div> </div> </li> {% endif %} {% if event.timeline-side == 'right' %} <li> <div class="direction-r"> <div class="flag-wrapper"> <span class="hexagon"></span> <span class="flag neumorphism-button" data-aos="zoom-in-left"> <a href="{{event.title-url}}" target="_blank" rel="noreferrer"> <span>{{event.title}}</span> </a> </span> <span class="time-wrapper" data-aos="zoom-in-left"> <span class="time neumorphism-card">{{event.date}}</span> </span> </div> <div class="desc neumorphism-card" data-aos="zoom-in-left"> {{event.subtitle}} {% if event.tags %} <div class="tag-wrapper"> {% for tag in event.tags %} <span class="tag neumorphism-card">{{tag.tag}}</span> {% endfor %} </div> {% endif %} </div> </div> </li> {% endif %} {% endfor %} </ul>
+</style>
+
+
+<script>
+
+$(function() {
+  setTimeout(function() {
+    $('.container').addClass('fadeIn');
+  }, 300);
+});
+
+ $.backstretch("https://i.imgur.com/gh2udno.jpg");
+</scipt>
+
+
+
+
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+<div class="wrapper">
+  <div class="container">
+    <div class="profile">
+      <div class="meta">
+        <img src="http://www.gravatar.com/avatar/139b01a3d3a844976802716ef3f63d7c.png" class="avatar"/>
+        <h2>David Burrell</h2>
+        <div class="position">CodePen.io</div>
+        <div class="social">
+          <a target="new" href="https://www.facebook.com/dburrell"><i class="fa fa-facebook-square"></i></a>
+          <a href="https://github.com/dburrell" target="new"><i class="icon-github"></i></a>
+          <a href="http://linkedin.dave.click" target="new"><i class="icon-linkedin"></i></a></div>
+      </div>
+      <div class="overlay"></div>
+    </div>
+    <div class="portfolio">
+      <h1>Welcome Headline</h1>
+      <p>This is a minimal and responsive about page.
+      Please give much credit to <a target="new" href="https://codepen.io/DivDax/">DivDax</a> who put together the front section.<br><br>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+    </div>
+  </div>
+  <div class="footer text-center"> <a href="https://codepen.io" target="new"><span class="label">https://codepen.io</span></a></div>
+</div>
