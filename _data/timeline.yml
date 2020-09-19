@@ -50,13 +50,13 @@
     - tag: masternode
   timeline-side: left
 
-- title: Amazon Smile
-  title-url: https://smile.amazon.com/ch/83-1698753
-  date: HTH Partner
-  subtitle:
-  tags:
-    - tag: nonprofit
-    - tag: homeless
-    - tag: commerce
-    - tag: donations
-  timeline-side: right
+#- title: Amazon Smile
+#  title-url: https://smile.amazon.com/ch/83-1698753
+#  date: HTH Partner
+#  subtitle:
+#  tags:
+#    - tag: nonprofit
+#    - tag: homeless
+#    - tag: commerce
+#    - tag: donations
+#  timeline-side: right
