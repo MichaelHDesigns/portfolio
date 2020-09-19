@@ -18,14 +18,14 @@
 #   timeline-side: right
 
 - title: Michael H
-  title-url: https://michaelhdesigns.github.io/playtime
-  date: My Personal Website
+  title-url: https://michaelhdesigns.github.io/myprofile/
+  date: 
   subtitle:
   tags:
     - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
-    - tag: neumorphism
-    - tag: html
-    - tag: css
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
+    - tag: <a href="https://michaelhdesigns.github.io/myprofile/" rel="tag">about</a> </p>
   timeline-side: left
 
 - title: My Github
