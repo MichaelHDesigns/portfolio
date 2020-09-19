@@ -26,9 +26,11 @@
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {{event.subtitle}}
-                {% if event.tags %}
-                <div class="tag-wrapper">
-                  {% for tag in event.tags %}
+                {% if title-url.live %}
+                <a class="highlight-link" href="{{title-url.live}}" target="_blank" rel="noreferrer">
+                  HTH Coin 
+                  </a> 
+                {% endif %}
                     <span class="tag neumorphism-card">{{tag.tag}}</span>
                   {% endfor %}
                 </div>
