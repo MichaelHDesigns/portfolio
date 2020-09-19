@@ -17,15 +17,15 @@
 #     - tag: 501c3
 #   timeline-side: right
 
-- title: Help The Homeless Worldwide
-  title-url: https://charity.hth.world
-  date: Sep 2018 - Present
-  subtitle: Nonprofit Parent Company
+- title: Michael H Designs
+  title-url: https://michaelhdesigns.github.io/playtime
+  date: Sep 2020 - Present
+  subtitle: My Personal Website
   tags:
-    - tag: nonprofit
-    - tag: homeless
-    - tag: homeless
-    - tag: 501c3
+    - tag: website
+    - tag: portfolio
+    - tag: github
+    - tag: company
   timeline-side: left
 
 - title: Michael H Designs
@@ -34,7 +34,7 @@
   subtitle: HTH Partner
   tags:
     - tag: web design
-    - tag: github
+    - tag: neumorphism
     - tag: html
     - tag: css
   timeline-side: right
