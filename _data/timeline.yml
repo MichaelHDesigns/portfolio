@@ -19,8 +19,8 @@
 
 - title: Michael H
   title-url: https://michaelhdesigns.github.io/playtime
-  date: Sep 2020 - Present
-  subtitle: My Personal Website
+  date: My Personal Website
+  subtitle:
   tags:
     - tag: web design
     - tag: neumorphism
@@ -30,8 +30,8 @@
 
 - title: My Github
   title-url: https://www.github.com/MichaelHDesigns
-  date: 2018 - Present
-  subtitle: My Personal Github
+  date: My Personal Github
+  subtitle:
   tags:
     - tag: website
     - tag: portfolio
@@ -41,8 +41,8 @@
 
 - title: Help The Homeless Worldwide
   title-url: https://github.com/HTHcoin
-  date: 2018 - Present
-  subtitle: HTH Worldwide Github
+  date: HTH Worldwide Github
+  subtitle:
   tags:
     - tag: nonprofit
     - tag: homeless
@@ -52,8 +52,8 @@
 
 - title: Amazon Smile
   title-url: https://smile.amazon.com/ch/83-1698753
-  date: 2018 - Present
-  subtitle: HTH Partner
+  date: HTH Partner
+  subtitle:
   tags:
     - tag: nonprofit
     - tag: homeless
