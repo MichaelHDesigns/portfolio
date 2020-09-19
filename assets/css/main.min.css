@@ -4,7 +4,7 @@
 html
 {
   background: #2b2d2f;
-  color:#34bcaa;
+  color:#fff;
   font-family:Raleway,sans-serif;
   font-size:1rem;
   font-weight:400;
@@ -30,26 +30,26 @@ p
 
 a 
 {
- color:#34bcaa;
+ color:#fff;
  text-decoration:none;
 }
 
 a:hover
 {
-  color:#34bcaa;
+  color:#fff;
 }
 
 .highlight-title
 {
-  color:#34bcaa;
-  text-shadow:.25rem .25rem .25rem #debf12;
+  color:#fff;
+  text-shadow:.25rem .25rem .25rem #000;
 }
 
 .highlight-link
 {
-  box-shadow:inset 0 -.125rem 0 #debf12;
+  box-shadow:inset 0 -.125rem 0 #000;
   box-sizing:border-box;
-  color:#34bcaa;
+  color:#fff;
   display:inline-block;
   padding:.125rem;
   transition:all .2s ease-in-out
@@ -57,8 +57,8 @@ a:hover
 
 .highlight-link:hover
 {
-  box-shadow:inset 0 -2rem 0 0 #debf12;
-  color:#000
+  box-shadow:inset 0 -2rem 0 0 #000;
+  color:#fff
 }
 
 .layout
@@ -105,7 +105,7 @@ a:hover
 
 .neumorphism-card-big
 {
-  box-shadow: 10px 15px 14px #debf12, -15px -15px 14px #34bcaa;
+  box-shadow: 10px 15px 14px #000, -15px -15px 14px #000;
 }
 
 #preloader
@@ -149,24 +149,24 @@ a:hover
 #preloader .load :first-child
 {
   animation-delay:-1.5s;
-  background:#34bcaa;
+  background:#fff;
 }
 
 #preloader .load :nth-child(2)
 {
   animation-delay:-1s;
-  background:#debf12;
+  background:#fff;
 }
 
 #preloader .load :nth-child(3)
 {
   animation-delay:-.5s;
-  background:#34bcaa;
+  background:#fff;
 }
 
 #preloader .load :last-child
 {
-  background:#debf12;
+  background:#fff;
 }
 
 @keyframes a
@@ -190,7 +190,7 @@ a:hover
 .footer
 {
   background:#2b2d2f;
-  color:#34bcaa;
+  color:#fff;
   margin:.5rem;
   padding:1rem;
   text-align:center;
@@ -198,13 +198,13 @@ a:hover
 
 .footer a
 {
-  color:#debf12;
+  color:#fff;
 }
 
 #landing,.footer a:focus,.footer a:hover
 {
   background:#2b2d2f;
-  color:#34bcaa
+  color:#fff;
 }
 
 #landing
@@ -239,7 +239,7 @@ a:hover
 
 .landing-icons .social-link
 {
-  color: #debf12;
+  color: #fff;
   position:relative;
   height:3rem;
   line-height:3rem;
@@ -266,7 +266,7 @@ a:hover
 
 .landing-icons .social-link .social-svg
 {
-  fill: #34bcaa;
+  fill: #000;
 }
 
 .landing-icons .social-link .label
@@ -288,7 +288,7 @@ a:hover
 
 .landing-icons .social-link:hover .social-svg
 {
-  fill:#34bcaa;
+  fill:#000;
 }
 
 .landing-icons .social-link:hover .label
@@ -305,7 +305,7 @@ a:hover
 
 .landing-icons .email:hover .social-svg
 {
-  fill:#34bcaa;
+  fill:#000;
 }
 
 .landing-icons .linkedin:hover .circle
@@ -315,7 +315,7 @@ a:hover
 
 .landing-icons .linkedin:hover .social-svg
 {
-  fill:#34bcaa;
+  fill:#000;
 }
 
 .landing-icons .twitter:hover .circle
@@ -325,7 +325,7 @@ a:hover
 
 .landing-icons .twitter:hover .social-svg
 {
-  fill:#34bcaa;
+  fill:#000;
 }
 
 @keyframes b
@@ -357,7 +357,7 @@ a:hover
 {
   to
   {
-    stroke:#debf12;
+    stroke:#fff;
   }
 }
 
@@ -365,7 +365,7 @@ a:hover
 {
   to
   {
-    stroke:#debf12;
+    stroke:#fff;
   }
 }
 
@@ -373,7 +373,7 @@ a:hover
 {
   to
   {
-    stroke:#debf12;
+    stroke:#fff;
   }
 }
 
@@ -381,7 +381,7 @@ a:hover
 {
   to
   {
-    stroke:#debf12;
+    stroke:#fff;
   }
 }
 
@@ -406,18 +406,18 @@ a:hover
 
 #skills div[skill-type=language]
 {
-  color:#34bcaa;
+  color:#fff;
   align-items:center;
 }
 
 #skills div[skill-type=framework]
 {
-  color:#34bcaa;
+  color:#fff;
 }
 
 #skills div[skill-type=tool]
 {
-  color:#34bcaa;
+  color:#fff;
 }
 
 #skills div[skill-weight="1"]
@@ -481,7 +481,7 @@ a:hover
 
 .timeline-wrapper .hexagon
 {
-  background:#debf12;
+  background:#ff0000;
   height:.5rem;
   left:0;
   margin-left:auto;
@@ -505,13 +505,13 @@ a:hover
 
 .timeline-wrapper .hexagon:before
 {
-  border-bottom:.25rem solid #debf12;
+  border-bottom:.25rem solid #ff0000;
   top:-.25rem
 }
 
 .timeline-wrapper .hexagon:after
 {
-  border-top:.25rem solid #debf12;
+  border-top:.25rem solid #ff0000;
   bottom:-.25rem
 }
 
@@ -538,7 +538,7 @@ a:hover
 .timeline-wrapper .flag span:after
 {
   content:"\226B";
-  color:#debf12;
+  color:#ff0000;
   position:absolute;
   opacity:0;
   right:-1rem;
@@ -559,7 +559,7 @@ a:hover
 
 .timeline-wrapper .time-wrapper
 {
-  color:#debf12;
+  color:#fff;
   display:block;
   line-height:.5rem;
   margin-top:.3rem
@@ -652,7 +652,7 @@ a:hover
 
 .contact-icons .social-link .social-svg
 {
-  fill:#34bcaa;
+  fill:#000;
 }
 
 .contact-icons .social-link:hover
@@ -663,22 +663,22 @@ a:hover
 
 .contact-icons .social-link:hover .social-svg
 {
-  fill:#debf12;
+  fill:#000;
 }
 
 .contact-icons .black:hover .social-svg
 {
-  fill:#debf12;
+  fill:#000;
 }
 
 .contact-icons .linkedin:hover .social-svg
 {
-  fill:#debf12;
+  fill:#000;
 }
 
 .contact-icons .twitter:hover .social-svg
 {
-  fill:#debf12;
+  fill:#000;
 }
 
 @media only screen and (min-width:48em)
@@ -756,7 +756,7 @@ a:hover
   
   #skills input[type=radio]:checked+.filter-button
   {
-    color:#debf12;
+    color:#fff;
     font-weight:600;
     background:linear-gradient(150deg,hsla(0,0%,8%,.4) 10%,hsla(0,0%,45%,.15) 80%);
     box-shadow:1px 1px 2px 0 hsla(0,0%,82%,.4),-1px -1px 2px rgba(0,0,0,.4),inset 3px 3px 2px 0 rgba(0,0,0,.4),inset -1px -2px 2px hsla(0,0%,82%,.4)
