@@ -7,6 +7,7 @@ title: Michael H
 description: Website for Michael H
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
+url: "http://www.michaelh.org"
 baseurl: "/portfolio"
 
 # LANDING PAGE
