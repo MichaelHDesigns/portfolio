@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Michael H | Home
 # description: This will be meta HTML tag content. This can be ignored.
-description: Website for Michael H
+description: Michael H's Portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 url: "http://www.michaelh.org"
